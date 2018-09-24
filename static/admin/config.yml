@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: me6iaton/gatsby-starter-netlify-cms # Path to your GitHub repository
   branch: master
 
 media_folder: static/img
